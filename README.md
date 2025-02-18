@@ -20,11 +20,7 @@
 
 ### Connect With Me
 Feel free to reach out on:
-- [LinkedIn](#) (Insert your actual link)
-- [Twitter](#) (If you ever decide to tweet more than once)
-- Or send me a random email: youremail@example.com
-
-(Yeah, there’s not much here. You can add more when you’re famous.)
+- [[LinkedIn](https://www.linkedin.com/in/medboufoussi/)](#)
 
 ---
 
