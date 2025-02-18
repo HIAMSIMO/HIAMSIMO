@@ -26,6 +26,9 @@ Feel free to reach out on:
 
 ### Languages and Tools
 <p align="left">
+  <p>
+    <em>"I might have more icons here than actual code in my repos, but hey—collecting tech stacks is like Pokémon: gotta catch ’em all!"</em>
+  </p>
   <!-- Same icons as before; keep or remove as you wish -->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
