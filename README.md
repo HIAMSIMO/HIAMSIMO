@@ -142,18 +142,7 @@ Feel free to reach out on:
 
 ---
 
-### GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiamsimo&show_icons=true&locale=en&layout=compact" alt="hiamsimo" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hiamsimo&show_icons=true&locale=en" alt="hiamsimo" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiamsimo&" alt="hiamsimo" />
-</p>
 
 ---
 
